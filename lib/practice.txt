@@ -1,0 +1,9 @@
+void main(){
+    RunApp(
+       const MaterialThemeApp(
+        home: Scaffold(
+          body:  Center(child:Text('this is the code),),
+        ),
+    ),
+    );
+}
