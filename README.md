@@ -8,5 +8,6 @@ what I learned
 - stateful and stateless widget
 - classes and their uses to make ui
 - using of pubspec.yaml file for importing files and libraries
+- text buttons and decoration stuff
 
   ![image](https://github.com/user-attachments/assets/1d322408-263f-46c5-be80-ba6b9bd10a88)
